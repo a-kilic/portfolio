@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="align-element grid md:grid-cols-2 items-center gap-8">
         <article>
           <h1 className="text-7xl text-sky-950 font-bold tracking-wider">
-            Hi, I'm Arda
+            I'm Arda
           </h1>
           <p className="mt-4 text-3xl text-sky-700 capitalize tracking-wide">
             Front-End Developer
@@ -22,7 +22,7 @@ const Hero = () => {
             <a href="https://www.linkedin.com/in/a-kilic/" target="blank">
               <FaLinkedin className="h-8 w-8 text-sky-500 hover:text-sky-900 duration-300" />
             </a>
-            <a href="mailto:adk_05@outlook.com">
+            <a href="mailto:arda.kilic@aol.com">
               <FaMailBulk className="h-8 w-8 text-sky-500 hover:text-sky-900 duration-300" />
             </a>
           </div>

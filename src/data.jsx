@@ -46,10 +46,10 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "https://i.gyazo.com/bc906dec1416f6a30d00db4905403b40.png",
-    url: "https://a-kilic.github.io/matchpoint/",
-    github: "https://github.com/a-kilic/matchpoint",
-    title: "MatchPoint",
-    text: "MatchPoint is a documentation website for an imaginary sports match tracking app. It highlights the application's features with a clean, modular design, showcasing refined CSS skills and a custom mini framework.",
+    img: "https://i.gyazo.com/43e7e15b08643564ada51fd9c3b9672b.png",
+    url: "https://a-kilic.github.io/Fashio-E-Commerce/",
+    github: "https://github.com/a-kilic/Fashio-E-Commerce",
+    title: "Fashio",
+    text: "Fashio is a React-based e-commerce website for fashion lovers, featuring a sleek, responsive design powered by Tailwind CSS. Still a work in progress, it combines clean UI with smooth user interactions, showcasing modular components and modern development techniques.",
   },
 ];
